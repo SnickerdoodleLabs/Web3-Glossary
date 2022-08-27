@@ -6,7 +6,8 @@ A crypto wallet (also commonly referred to as a digital wallet), is a piece of s
 
 Nearly all consumer crypto wallets on the market today are Heirarchical Deterministic (HD) wallets. This means that when you set up a new crypto wallet, it produces, in a mathematically secure fashion, a human-readable secret recovery phrase (also known as a mnemonic or seed phrase) that itself is then used to algorithmically generate a deterministic sequence of account addresses, each account having its own public-private key pair. It is these addresses themselves (along with signatures generated from their private keys) that are used to prove ownership of digital assets on the blockchain. Your secret recovery phrase can be used to regenerate your accounts and the accounts’ public-private key pairs by importing the seed into a new wallet software application.
 
-WARNING: Store your seed phrase somewhere secure to recover your accounts in case of an emergency and keep the private keys it generates private; Hypernet.ID will never ask you for your private keys or seed phrase and you should never reveal them to any third party, ever.
+**WARNING**: Store your seed phrase somewhere secure to recover your accounts in case of an emergency and keep the private keys it generates private; A legitimate application 
+will never ask you for your private keys or seed phrase and you should never reveal them to any third party, ever.
 
 Cypto wallets currently take two main form-factors: browser extensions and mobile apps.
 
@@ -19,18 +20,14 @@ Other consensus protocols that are not based on the [Ethereum Virtual Machine](h
 
 ## Decentralized Autonomous Organization (DAO)
 
-A [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) is the entity and mechanism by which upgrades to the Hypernet Protocol are proposed and exectued on the 
-blockchain. The Hypernet Protocol DAO is implemented in [Solidity](https://docs.soliditylang.org/) and currently deployed on the Rinkeby Ethereum testnet. More information about how 
-governance is implemented in the Hyperent Protocol can be found [here](/packages/contracts/contracts/governance/README.md). 
+A [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) is a smart contract program deployed to a blockchain. DAOs enable organization members
+to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant. 
 
 ## Layer 1
 
 This is an alternative name for a base-layer consensus network. Networks like Bitcoin, Ethereum, and Avalanche are examples of *layer 1* protocols. 
 The term layer 1 does not imply a particular ledger data structure, i.e., a layer 1 protocol could be either blockchain-based or based on a 
 directed acyclic graph (DAG) topology. 
-
-Though most of the payments and activity in the Hypernet Protocol payments stack occur at layer 2 (see below), Hypernet Core relies on layer 1 for 
-disputes, deposits, withdrawals, and other (hopefully rare) occasions.
 
 Helpful links / primers on blockchain, smart contracts, and Ethereum below:
 
