@@ -1,4 +1,4 @@
-![Web3 Glossary](/assets/logos/snickerdoodle.png)
+![Web3 Glossary](/assets/logos/snickerdoodle_horizontal_notab.png)
 
 # Web3 Glossary
 
