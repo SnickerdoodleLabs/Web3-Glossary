@@ -2,7 +2,7 @@
 
 ## Tutorials
 * [Introduction](/README.md)
-* [Tutorials]
+* Tutorials
   * [Getting a Wallet](/tutorials/getting-a-wallet.md)
 
 ## Glossary
