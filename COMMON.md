@@ -10,6 +10,19 @@ WARNING: Store your seed phrase somewhere secure to recover your accounts in cas
 
 Cypto wallets currently take two main form-factors: browser extensions and mobile apps.
 
+## Non-Fungible Token (NFT)
+
+A non-fungible token (NFT) is a unique digital asset that exists on the blockchain. It can be owned and interacted with via the functionality provided by a crypto wallet. 
+Simply put, an NFT consists of three parts: a contract address (the storage location on the blockchain), a token ID (a unique reference number within that storage location), 
+and metadata (like a URL). Currently, the most common code standard for implementing NFTs is given by the [EIP721](https://eips.ethereum.org/EIPS/eip-721) standard definition.
+Other consensus protocols that are not based on the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/) (EVM) have developed their own NFT standard definitions.
+
+## Decentralized Autonomous Organization (DAO)
+
+A [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) is the entity and mechanism by which upgrades to the Hypernet Protocol are proposed and exectued on the 
+blockchain. The Hypernet Protocol DAO is implemented in [Solidity](https://docs.soliditylang.org/) and currently deployed on the Rinkeby Ethereum testnet. More information about how 
+governance is implemented in the Hyperent Protocol can be found [here](/packages/contracts/contracts/governance/README.md). 
+
 ## Layer 1
 
 This is an alternative name for a base-layer consensus network. Networks like Bitcoin, Ethereum, and Avalanche are examples of *layer 1* protocols. 
