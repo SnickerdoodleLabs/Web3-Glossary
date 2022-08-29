@@ -16,7 +16,7 @@ See our tutorial on [how to set up a wallet ](tutorials/getting-a-wallet.md)to l
 
 ## Non-Fungible Token (NFT)
 
-A non-fungible token (NFT) is a unique digital asset that exists on the blockchain. It can be owned and interacted with via the functionality provided by a crypto wallet. Simply put, an NFT consists of three parts: a contract address (the storage location on the blockchain), a token ID (a unique reference number within that storage location), and metadata (like a URL). Currently, the most common code standard for implementing NFTs is given by the [EIP721](https://eips.ethereum.org/EIPS/eip-721) standard definition. Other consensus protocols that are not based on the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/) (EVM) have developed their own NFT standard definitions.
+A non-fungible token (NFT) is a unique digital asset that exists on the blockchain. It can be owned and interacted with via the functionality provided by a crypto wallet. Simply put, an NFT consists of three parts: a contract address (the storage location on the blockchain), a token ID (a unique reference number within that storage location), and metadata (like a URL). Currently, the most common code standard for implementing NFTs is given by the [EIP721](https://eips.ethereum.org/EIPS/eip-721) standard definition. Other consensus protocols that are not based on the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/) (EVM) have developed their own NFT standard definitions.&#x20;
 
 ## Decentralized Exchange (DEX)
 
@@ -25,6 +25,10 @@ A decentralized exchange, commonly referred to as a DEX, is a smart contract pro
 ## Decentralized Autonomous Organization (DAO)
 
 A [DAO](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) is a smart contract program deployed to a blockchain. DAOs enable organization members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant.
+
+## Subnet
+
+A Subnet is **a sovereign network which defines its own rules regarding its membership and token economics**. It is composed of a dynamic subset of Avalanche validators working together to achieve consensus on the state of one or more blockchains.
 
 ## Layer 1
 
