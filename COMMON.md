@@ -44,6 +44,13 @@ A [subnet](https://docs.avax.network/subnets) is **a sovereign network which def
 [Avalanche Protocol](https://docs.avax.network/). It is composed of a dynamic subset of Avalanche validators working together to achieve consensus on the state of one or 
 more blockchains.
 
+## Transaction Fee
+
+Every blockchain requires that a fee be paid by a user in order to interact with their digital assets. You interact with your digital assets (i.e. trade them or move them
+to new accounts) by broadcasting a transaction to the blockchain network through your [wallet](#wallet) software. In order to prevent the blockchain network from 
+being spammed by frivolous transaction, a monetary cost is imposed, called a transaction fee. In the case of the Ethereum network or Ethereum-like networks, the transaction 
+fee is referred to as *gas*. 
+
 ## Wallet
 
 A crypto wallet (also commonly referred to as a digital wallet), is a piece of software that lets you interact with your digital assets on the blockchain. The wallet does this through the use of public-key cryptography technology to generate account addresses.
