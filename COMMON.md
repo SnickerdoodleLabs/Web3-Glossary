@@ -17,6 +17,10 @@ The use of an offline piece of hardware to store passwords to online wallets. Wr
 A [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) is a smart contract program deployed to a blockchain. DAOs enable organization members
 to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant. 
 
+## Decentralized Exchange (DEX)
+
+A decentralized exchange, commonly referred to as a DEX, is a smart contract program deployed to a blockchain that enables owners of fungible tokens to exchange them for other fungible tokens without the need for a third party to facilitate the trade. See our tutorial on [DEXs ](tutorials/how-do-i-use-a-dex.md)to learn how to use some of the most popular ones in Web3.
+
 ## Hot Storage 
 
 The use of software connected to the internet to store your passwords and wallet access information. 
@@ -24,10 +28,6 @@ The use of software connected to the internet to store your passwords and wallet
 ## Non-Fungible Token (NFT)
 
 A non-fungible token (NFT) is a unique digital asset that exists on the blockchain. It can be owned and interacted with via the functionality provided by a crypto [wallet](#wallet). Simply put, an NFT consists of three parts: a contract address (the storage location on the blockchain), a token ID (a unique reference number within that storage location), and metadata (like a URL). Currently, the most common code standard for implementing NFTs is given by the [EIP-721](https://eips.ethereum.org/EIPS/eip-721) standard definition. Other consensus protocols that are not based on the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/) (EVM) have developed their own NFT standard definitions.
-
-## Decentralized Exchange (DEX)
-
-A decentralized exchange, commonly referred to as a DEX, is a smart contract program deployed to a blockchain that enables owners of fungible tokens to exchange them for other fungible tokens without the need for a third party to facilitate the trade. See our tutorial on [DEXs ](tutorials/how-do-i-use-a-dex.md)to learn how to use some of the most popular ones in Web3.
 
 ## Stablecoin 
 
