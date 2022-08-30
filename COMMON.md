@@ -31,7 +31,12 @@ A non-fungible token (NFT) is a unique digital asset that exists on the blockcha
 
 ## Stablecoin 
 
-Stablecoins are a type of digital currency that is backed by existing reserve assets to help them avoid drastic changes in valuation. There are four subcategories of stablecoin: (1) fiat-backed (tied to a government issued currency); (2) commodity-backed (tied to a physical commodity like oil or gold); (3) Crypto-backed (tied to other cryptocurrencies); and (4) algorithmic (tied to the number of tokens in circulation). 
+Stablecoins are a type of digital currency that is backed by existing reserve assets to help them avoid drastic changes in valuation. There are four subcategories of stablecoin: 
+
+1. fiat-backed (tied to a government issued currency) 
+2. commodity-backed (tied to a physical commodity like oil or gold)
+3. Crypto-backed (tied to other cryptocurrencies)
+4. algorithmic (tied to the number of tokens in circulation). 
 
 ## Subnet
 
