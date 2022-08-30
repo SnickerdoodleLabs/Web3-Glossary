@@ -40,7 +40,9 @@ Stablecoins are a type of digital currency that is backed by existing reserve as
 
 ## Subnet
 
-A Subnet is **a sovereign network which defines its own rules regarding its membership and token economics**. It is composed of a dynamic subset of Avalanche validators working together to achieve consensus on the state of one or more blockchains.
+A [subnet](https://docs.avax.network/subnets) is **a sovereign network which defines its own rules regarding its membership and token economics** based on the 
+[Avalanche Protocol](https://docs.avax.network/). It is composed of a dynamic subset of Avalanche validators working together to achieve consensus on the state of one or 
+more blockchains.
 
 ## Wallet
 
