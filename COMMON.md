@@ -4,6 +4,10 @@ coverY: 0
 
 # Common Terms
 
+## Altcoin
+
+Any cryptocurrency that isn’t Bitcoin or Ether, the two largest and most influential in the industry. Popular altcoins include Polygon, Solana, Ripple and our own forthcoming Doodle Tokens. 
+
 ## Cold Storage
 
 The use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage. 
@@ -42,4 +46,4 @@ Nearly all consumer crypto wallets on the market today are Hierarchical Determin
 **WARNING**: Store your seed phrase somewhere secure to recover your accounts in case of an emergency and keep the private keys it generates private; A legitimate application 
 will never ask you for your private keys or seed phrase and you should never reveal them to any third party, ever.
 
-Crypto wallets currently take two main form-factors: browser extensions and mobile apps.
+See our [tutorial](/tutorials/getting-a-wallet.md) for getting started with your first wallet. 
