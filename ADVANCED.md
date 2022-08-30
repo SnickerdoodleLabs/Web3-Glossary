@@ -1,5 +1,19 @@
 # Glossary of Advanced Terms
 
+## Content Addressable Network
+
+A content addressable network is network of machines in which an asset, tracked by the network, can be referenced by its *hash*. That is, 
+instead of requesting a file by referring to its human-readable name (i.e. `cat.jpg`), a file is requested by referring to the result of running
+the `cat.jpg` file through a cryptographically secure hashing algorithm (i.e. `QmPrrEV81x7Lm8qhKXHAc1Sw8nSsBTMHN3HmRFnc7Q1CjU`). The benefit of 
+requesting an asset by its hash is that once the asset is delivered, the user can independently verify that they have indeed received the information
+they were looking for by applying the hashing algorithm to the file delivered by the network. 
+
+Some examples of popular content addressible network protocols include:
+
+1. [IPFS](https://ipfs.io)
+2. [SWARM](https://www.ethswarm.org/)
+3. [ARWEAVE](https://www.arweave.org/)
+
 ## Layer 1
 
 This is an alternative name for a base-layer consensus network. Networks like Bitcoin, Ethereum, and Avalanche are examples of *layer 1* protocols. 
