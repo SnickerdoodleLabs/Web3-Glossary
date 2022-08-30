@@ -8,6 +8,10 @@ coverY: 0
 
 Any cryptocurrency that isn’t Bitcoin or Ether, the two largest and most influential in the industry. Popular altcoins include Polygon, Solana, Ripple and our own forthcoming Doodle Tokens. 
 
+## Anti-Money Laundering (AML)
+
+Anti-money laundering laws, regulations, and policies are intended to prevent criminal individuals, organizations and enterprises from shielding illegally obtained funds from scrutiny or disguising them as legitimate legal income. AML rules require that businesses actively take part in preventing and combating money laundering, terrorism financing, and other financial crimes.
+
 ## Cold Storage
 
 The use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage. 
@@ -24,6 +28,10 @@ A decentralized exchange, commonly referred to as a DEX, is a smart contract pro
 ## Hot Storage 
 
 The use of software connected to the internet to store your passwords and wallet access information. 
+
+## Know Your Customer (KYC)
+
+Institutions of all sizes use KYC processes to ensure that they know enough about each person with whom they are doing business. These processes are often necessary to ensure that the institution complies with regulations such as the US Department of Treasury’s Office of Foreign Asset Controls (OFAC) and other asset control regulations applicable in different jurisdictions.
 
 ## Non-Fungible Token (NFT)
 
