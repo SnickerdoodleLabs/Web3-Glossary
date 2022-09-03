@@ -12,13 +12,21 @@ Any cryptocurrency that isn’t Bitcoin or Ether, the two largest and most influ
 
 Anti-money laundering laws, regulations, and policies are intended to prevent criminal individuals, organizations and enterprises from shielding illegally obtained funds from scrutiny or disguising them as legitimate legal income. AML rules require that businesses actively take part in preventing and combating money laundering, terrorism financing, and other financial crimes.
 
+## Centralized Exchange (CEX)
+
+A centralized exchange, commonly referred to as a CEX, is typically a for-profit business that facilitates the purchasing of crypto/digital assets with fiat currency (like USD). A
+CEX will likely require that a user pass [KYC](#know-your-customer-kyc) and [AML](#anti-money-laundering-aml) checks before they are allowed to onboard into the application in 
+order to comply with regulatory requirements. CEXs often support traditional order-book style trading with limit and market orders for obtaining fungible and [non-fungible]
+(#non-fungible-token-nft) digital assets. 
+
 ## Cold Storage
 
 The use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage.
 
 ## Decentralized Autonomous Organization (DAO)
 
-A [DAO](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) is a smart contract program deployed to a blockchain. DAOs enable organization members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant.
+A [DAO](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) is a smart contract program deployed to a blockchain. Specifically, DAOs enable organization 
+members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant.
 
 ## Decentralized Exchange (DEX)
 
