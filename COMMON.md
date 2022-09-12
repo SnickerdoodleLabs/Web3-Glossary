@@ -6,11 +6,12 @@ coverY: 0
 
 ## Altcoin
 
-Any cryptocurrency that isn’t Bitcoin or Ether, the two largest and most influential in the industry. Popular altcoins include Polygon, Solana, Ripple and our own forthcoming Doodle Tokens.
+Any cryptocurrency that isn’t [Bitcoin](https://bitcoin.org/en/) or [Ether](https://ethereum.org/en/) (some even consider Ether to be an altcoin), the two largest and most influential in the industry. Popular altcoins include [Polygon](https://polygon.technology/), [Solana](https://solana.com/), [Ripple](https://ripple.com/) and our own 
+forthcoming protocol token.
 
 ## Anti-Money Laundering (AML)
 
-Anti-money laundering laws, regulations, and policies are intended to prevent criminal individuals, organizations and enterprises from shielding illegally obtained funds from scrutiny or disguising them as legitimate legal income. AML rules require that businesses actively take part in preventing and combating money laundering, terrorism financing, and other financial crimes.
+Anti-money laundering laws, regulations, and policies are intended to prevent criminal individuals, organizations and enterprises from shielding illegally obtained funds from scrutiny or disguising them as legitimate legal income. AML rules require that businesses actively take part in preventing and combating money laundering, terrorism financing, and other financial crimes. In the United States, AML laws are enforced primarily by [FinCEN](https://www.fincen.gov/history-anti-money-laundering-laws).
 
 ## Centralized Exchange (CEX)
 
@@ -21,28 +22,56 @@ order to comply with regulatory requirements. CEXs often support traditional ord
 
 ## Cold Storage
 
-The use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage.
+Cold storage refers to the use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage (often referred to as *paper wallets*). The term primarily implies that the technology storing the user's private key is not directly connected to the internet. 
 
 ## Decentralized Autonomous Organization (DAO)
 
 A [DAO](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) is a smart contract program deployed to a blockchain. Specifically, DAOs enable organization 
-members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant.
+members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant. 
+DAOs and their use-cases are an active area of [interdisciplinary research](https://ralphmerkle.com/papers/DAOdemocracyDraft.pdf), and new applications for decentralized 
+governance are constantly being explored.  
 
 ## Decentralized Exchange (DEX)
 
-A decentralized exchange, commonly referred to as a DEX, is a smart contract program deployed to a blockchain that enables owners of fungible tokens to exchange them for other fungible tokens without the need for a third party to facilitate the trade. See our tutorial on [DEXs ](tutorials/how-do-i-use-a-dex.md)to learn how to use some of the most popular ones in Web3.
+A decentralized exchange, commonly referred to as a DEX, is a smart contract program deployed to a blockchain that enables owners of fungible tokens to exchange them for other fungible tokens without the need for a trusted third party to facilitate the trade. See our tutorial on [DEXs](tutorials/how-do-i-use-a-dex.md) to learn how to use some of the most popular ones in Web3. Some of the most popular DEXs in Web3 include:
+
+- [Uniswap](https://uniswap.org/)
+- [Curve](https://curve.fi/)
+- [Trader Joe XYZ](https://traderjoexyz.com/)
 
 ## Hot Storage
 
-The use of software connected to the internet to store your passwords and wallet access information.
+Hot storage refers to a crypto [wallet](#wallet) software application that is connected to the internet. Hot storage wallets are more convenient to use than 
+[cold storage](#cold-storage) wallets at the cost of reduced security. Most hot storage wallets take the form of a 
+[browser extension](/tutorials/getting-a-wallet.md/#browser-based-wallets) or [mobile application](/tutorials/getting-a-wallet.md/#mobile-based-wallets).
 
 ## Know Your Customer (KYC)
 
-Institutions of all sizes use KYC processes to ensure that they know enough about each person with whom they are doing business. These processes are often necessary to ensure that the institution complies with regulations such as the US Department of Treasury’s Office of Foreign Asset Controls (OFAC) and other asset control regulations applicable in different jurisdictions.
+Institutions of all sizes use KYC processes to ensure that they know enough about each person with whom they are doing business. These processes are often necessary to ensure that the institution complies with regulations such as the US Department of Treasury’s 
+[Office of Foreign Asset Controls](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information) (OFAC) and other asset 
+control regulations applicable in different jurisdictions.
 
 ## Non-Fungible Token (NFT)
 
-A non-fungible token (NFT) is a unique digital asset that exists on the blockchain. It can be owned and interacted with via the functionality provided by a crypto [wallet](COMMON.md#wallet). Simply put, an NFT consists of three parts: a contract address (the storage location on the blockchain), a token ID (a unique reference number within that storage location), and metadata (like a URL). Currently, the most common code standard for implementing NFTs is given by the [EIP-721](https://eips.ethereum.org/EIPS/eip-721) standard definition. Other consensus protocols that are not based on the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/) (EVM) have developed their own NFT standard definitions.
+A non-fungible token (NFT) is a unique digital asset that exists on the blockchain that you can buy and trade. It can be owned and interacted with via the functionality provided by a crypto [wallet](#wallet). 
+
+An NFT consists of three parts: 
+
+- a contract address (the storage location on the blockchain)
+- a token ID (a unique reference number within that storage location)
+- metadata (like a URL)
+
+Currently, the most common code standard for implementing NFTs is given by the [EIP-721](https://eips.ethereum.org/EIPS/eip-721) standard definition which is a technical 
+specification for how wallets and exchanges can interact with the asset. Other consensus protocols, that are not based on the 
+[Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/) (EVM), have developed their own NFT standard definitions.
+
+## Proof-of-Work (PoW)
+
+Proof-of-Work is a cryptographic algorithm that allows a computer (or really anything) to prove beyond a reasonable doubt that at least some amount of effort has been expended. 
+Historically, PoW algorithms were used to [fight email spam](https://en.wikipedia.org/wiki/Hashcash). Today, PoW algorithms are used in many blockchain networks as the mechanism 
+by which a computer proves that it has the right to decide on what transactions are included in the next block added to the block chain. The most famous protocol that still used 
+PoW is [Bitcoin](https://bitcoin.org/en/how-it-works#processing). Computers running the blockchain protocol compete to produce a Proof-of-Work receipt that fits a certain 
+pre-agreed upon pattern before anyone else. The parameters that produce the pattern are hard to find, but trivially easy to verify. 
 
 ## Stablecoin
 
@@ -53,13 +82,15 @@ Stablecoins are a type of digital currency that is backed by existing reserve as
 3. Crypto-backed (tied to other cryptocurrencies)
 4. algorithmic (tied to the number of tokens in circulation).
 
+Stablecoins are an [active area of research](https://fdc.stanford.edu/) both from a technical implementation perspective but also from a regulatory and compliance context. 
+
 ## Subnet
 
 A [subnet](https://docs.avax.network/subnets) is **a sovereign network which defines its own rules regarding its membership and token economics** based on the [Avalanche Protocol](https://docs.avax.network/). It is composed of a dynamic subset of Avalanche validators working together to achieve consensus on the state of one or more blockchains.
 
 ## Transaction Fee
 
-Every blockchain requires that a fee be paid by a user in order to interact with their digital assets. You interact with your digital assets (i.e. trade them or move them to new accounts) by broadcasting a transaction to the blockchain network through your [wallet](COMMON.md#wallet) software. In order to prevent the blockchain network from being spammed by frivolous transaction, a monetary cost is imposed, called a transaction fee. In the case of the Ethereum network or Ethereum-like networks, the transaction fee is referred to as _gas_.
+Every blockchain requires that a fee be paid by a user in order to interact with their digital assets. You interact with your digital assets (i.e. trade them or move them to new accounts) by broadcasting a transaction to the blockchain network through your [wallet](#wallet) software. In order to prevent the blockchain network from being spammed by frivolous transactions, a monetary cost is imposed, called a transaction fee. In the case of the Ethereum network or Ethereum-like networks, the transaction fee is referred to as [_gas_](https://ethereum.org/en/developers/docs/gas/).
 
 ## Wallet
 
