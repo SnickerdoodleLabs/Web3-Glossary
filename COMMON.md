@@ -17,8 +17,7 @@ Anti-money laundering laws, regulations, and policies are intended to prevent cr
 
 A centralized exchange, commonly referred to as a CEX, is typically a for-profit business that facilitates the purchasing of crypto/digital assets with fiat currency (like USD). A
 CEX will likely require that a user pass [KYC](#know-your-customer-kyc) and [AML](#anti-money-laundering-aml) checks before they are allowed to onboard into the application in 
-order to comply with regulatory requirements. CEXs often support traditional order-book style trading with limit and market orders for obtaining fungible and [non-fungible]
-(#non-fungible-token-nft) digital assets. 
+order to comply with regulatory requirements. CEXs often support traditional order-book style trading with limit and market orders for obtaining fungible and [non-fungible](#non-fungible-token-nft) digital assets. 
 
 ## Cold Storage
 
