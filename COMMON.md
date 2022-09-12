@@ -25,14 +25,16 @@ Cold storage refers to the use of an offline piece of hardware to store password
 
 ## Decentralized Autonomous Organization (DAO)
 
-A [DAO](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) is a smart contract program deployed to a blockchain. Specifically, DAOs enable organization 
-members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and tamper-resistant. 
-DAOs and their use-cases are an active area of [interdisciplinary research](https://ralphmerkle.com/papers/DAOdemocracyDraft.pdf), and new applications for decentralized 
-governance are constantly being explored.  
+A [DAO](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization) is a [smart contract](#smart-contract) program deployed to a blockchain. Specifically, DAOs enable 
+organization members to propose and vote on the execution of rules built into the organization's on-chain protocol in a manner that is fully transparent, auditable, and 
+tamper-resistant. DAOs and their use-cases are an active area of [interdisciplinary research](https://ralphmerkle.com/papers/DAOdemocracyDraft.pdf), and new applications for 
+decentralized governance are constantly being explored.  
 
 ## Decentralized Exchange (DEX)
 
-A decentralized exchange, commonly referred to as a DEX, is a smart contract program deployed to a blockchain that enables owners of fungible tokens to exchange them for other fungible tokens without the need for a trusted third party to facilitate the trade. See our tutorial on [DEXs](tutorials/how-do-i-use-a-dex.md) to learn how to use some of the most popular ones in Web3. Some of the most popular DEXs in Web3 include:
+A decentralized exchange, commonly referred to as a DEX, is a [smart contract](#smart-contract) program deployed to a blockchain that enables owners of fungible tokens to 
+exchange them for other fungible tokens without the need for a trusted third party to facilitate the trade. See our tutorial on [DEXs](tutorials/how-do-i-use-a-dex.md) to learn 
+how to use some of the most popular ones in Web3. Some of the most popular DEXs in Web3 include:
 
 - [Uniswap](https://uniswap.org/)
 - [Curve](https://curve.fi/)
@@ -71,6 +73,20 @@ Historically, PoW algorithms were used to [fight email spam](https://en.wikipedi
 by which a computer proves that it has the right to decide on what transactions are included in the next block added to the block chain. The most famous protocol that still used 
 PoW is [Bitcoin](https://bitcoin.org/en/how-it-works#processing). Computers running the blockchain protocol compete to produce a Proof-of-Work receipt that fits a certain 
 pre-agreed upon pattern before anyone else. The parameters that produce the pattern are hard to find, but trivially easy to verify. 
+
+## Smart Contract
+
+A smart contract is a special computer program that is designed specifically to run on a blockchain. The primary purpose of smart contracts is to try to remove the need for 
+a trusted third party or intermediary by implementing customized logic for executing a transfer of value with special conditions or registering a commitment of information. Specific examples of applications that are fundamentally enabled by smart contracts include:
+
+- [DEXs](#decentralized-exchange-dex)
+- [DAOs](#decentralized-autonomous-organization-dao)
+- [Stablecoins](#stablecoin)
+- [Non-Fungible Tokens](#non-fungible-token-nft)
+-  Multi-Signature Accounts
+
+The [Etheruem Virtual Machine](https://ethereum.org/en/developers/docs/evm/) is smart contract operating system that has been adopted by the largest number of blockchain 
+protocols and also has the currently enjoys the largest developer base. 
 
 ## Stablecoin
 
