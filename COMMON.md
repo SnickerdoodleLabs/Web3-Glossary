@@ -21,7 +21,7 @@ order to comply with regulatory requirements. CEXs often support traditional ord
 
 ## Cold Storage
 
-Cold storage refers to the use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage (often referred to as *paper wallets*). The term primarily implies that the technology storing the user's private key is not directly connected to the internet. 
+Cold storage refers to the use of an offline piece of hardware to store passwords to online wallets. Written notes can also be considered a form of cold storage (often referred to as [*paper wallets*](https://en.bitcoin.it/wiki/Paper_wallet)). The term primarily implies that the technology storing the user's private key is not directly connected to the internet. 
 
 ## Decentralized Autonomous Organization (DAO)
 
