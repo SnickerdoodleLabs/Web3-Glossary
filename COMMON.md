@@ -69,8 +69,8 @@ specification for how wallets and exchanges can interact with the asset. Other c
 ## Proof-of-Work (PoW)
 
 Proof-of-Work is a cryptographic algorithm that allows a computer (or really anything) to prove beyond a reasonable doubt that at least some amount of effort has been expended. 
-Historically, PoW algorithms were used to [fight email spam](https://en.wikipedia.org/wiki/Hashcash). Today, PoW algorithms are used in many blockchain networks as the mechanism 
-by which a computer proves that it has the right to decide on what transactions are included in the next block added to the block chain. The most important protocol that still 
+Historically, PoW algorithms were used to [fight email spam](https://en.wikipedia.org/wiki/Hashcash). Today PoW algorithms are used in many blockchain networks as the mechanism 
+by which a computer proves that it has the right to decide what transactions are included in the next block added to the blockchain. The most important protocol that still 
 uses PoW is [Bitcoin](https://bitcoin.org/en/how-it-works#processing). Computers running the blockchain protocol compete to produce a Proof-of-Work receipt that fits a certain 
 pre-agreed upon pattern before anyone else. The parameters that produce the pattern are hard to find, but trivially easy to verify. 
 
